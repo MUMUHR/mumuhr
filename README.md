@@ -13,6 +13,5 @@ I'm **Teuku Azman Muharsyah**, a Software Engineering Technology student at **Po
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mumuhr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mumuhr&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="gif.jpg" width="100%" height="100%">
