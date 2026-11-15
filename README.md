@@ -38,29 +38,38 @@ const muhar = {
 };
 ```
 
-### 🛰️ What I work on
 
-I'm interested in building software and web applications that solve real-world problems. I enjoy turning ideas into functional digital products, exploring different technologies, and continuously improving the way I develop software.
+### 🛰️ What I Work On
 
-### 🧰 Tech I reach for
+I'm passionate about building software and web applications that solve real-world problems. I enjoy transforming ideas into functional digital products, exploring new technologies, and continuously improving my development skills.
+
+### 🧰 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178c6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=f7df1e)
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel&logoColor=ff2d20)
 ![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=777bb4)
 ![C#](https://img.shields.io/badge/C%23-000?style=flat-square&logo=csharp&logoColor=239120)
 ![Flutter](https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter&logoColor=02569b)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479a1)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite&logoColor=07405e)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=6da55f)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=f24e1e)
 
-> 📖 Always learning something new — exploring software engineering, development practices, and better ways to build applications.
+### 🤖 AI Tools & Workflow
+
+I leverage AI-powered tools to support my development workflow, from brainstorming and problem-solving to coding and experimentation. I see AI as a development partner that enhances productivity while critical thinking and technical understanding remain essential.
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=flat-square&logo=openai&logoColor=74aa9c)
+![Claude](https://img.shields.io/badge/Claude-000?style=flat-square&logo=claude&logoColor=d97757)
+![Antigravity](https://img.shields.io/badge/Antigravity-000?style=flat-square&logo=google&logoColor=4285F4)
+![Hermes](https://img.shields.io/badge/Hermes-000?style=flat-square&logo=probot&logoColor=white)
+
+**And more...** constantly exploring new Agentic AI tools and technologies.
+
+> 💡 Always learning, experimenting, and finding better ways to build software with technology and AI.
 
 ### 📊 The stats say
 
